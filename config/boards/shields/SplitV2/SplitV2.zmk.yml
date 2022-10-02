@@ -1,0 +1,8 @@
+file_format: "1"
+id: SplitV2
+name: SplitV2
+type: shield
+url: https://github.com/PJE66/hummingbird
+requires: [pro_micro]
+features:
+  - keys
