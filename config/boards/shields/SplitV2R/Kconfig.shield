@@ -1,0 +1,2 @@
+config SHIELD_SplitV2R
+    def_bool $(shields_list_contains,SplitV2R)

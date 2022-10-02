@@ -1,6 +1,6 @@
 file_format: "1"
-id: SplitV2
-name: SplitV2
+id: SplitV2R
+name: SplitV2R
 type: shield
 url: https://github.com/PJE66/hummingbird
 requires: [pro_micro]

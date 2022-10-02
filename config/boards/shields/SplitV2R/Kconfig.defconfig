@@ -1,0 +1,6 @@
+if SHIELD_SplitV2R
+
+config ZMK_KEYBOARD_NAME
+    default "SplitV2R"
+
+endif
